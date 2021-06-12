@@ -146,7 +146,7 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                          Travel In Jordan
+                          201 project
                           </h6>
                           <p className="description mt-3">
                           It is a simple site to facilitate finding and booking hotels and supporting domestic and foreign tourism
